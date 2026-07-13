@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.4
+pydantic-settings==2.3.4
+pandas
+sqlalchemy==2.0.31
+asyncpg==0.29.0
+celery==5.4.0
+amqp==5.2.0
+psycopg2-binary
+scipy
+plotly
